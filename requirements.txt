@@ -6,6 +6,7 @@ tensorboard
 matplotlib
 streamlit
 protobuf==5.28.*
+protoc==3.19.0
 
 
 
