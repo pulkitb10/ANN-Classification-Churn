@@ -5,8 +5,9 @@ scikit-learn
 tensorboard
 matplotlib
 streamlit
-protobuf==5.28.*
+protobuf
 protoc==3.19.0
+
 
 
 
